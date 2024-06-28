@@ -1,0 +1,1 @@
+(()=>{"use strict";require("react-router-dom"),console.log("/some-path")})();
